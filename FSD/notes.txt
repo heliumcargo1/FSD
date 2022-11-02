@@ -1,0 +1,6 @@
+1) attribute 
+2) comment = select ctrl /
+3) alt 
+4) anchor tag
+5) button
+6) css

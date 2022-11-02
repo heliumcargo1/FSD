@@ -1,0 +1,44 @@
+.parent{
+    color: black;
+    background-attachment: fixed;
+    justify-content:space-between;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.c1,.C4,.c7{
+
+    background-color: gray;
+    
+    
+}
+.c2,.c5,.c8{
+
+    background-color: lightpink;
+    
+}
+.c3,.c6,.c9{
+    
+    background-color: khaki;
+    
+}
+img{
+    height: 200;
+    width: 200;
+    border-radius: 50%;
+}
+.navi{
+    display:flex;
+    justify-content:space-between;
+    color: black;
+    padding: 2%;
+    background-color: rgb(240, 86, 15);
+    border: 4px s;
+    margin-bottom: 10;
+}
+.spanc{
+    border: 10px solid blue;
+    height: 500;
+    
+}
